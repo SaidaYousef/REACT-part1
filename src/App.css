@@ -1,0 +1,22 @@
+.login-form {
+  width: 100%;
+  padding: 142.5px;
+  margin: auto;
+  height: 100%;
+  font-family: 'Times New Roman', Times, serif;
+}
+Label, Input, h1, .text-center  {
+  color: white;
+}
+span{
+  font-family: 'Allura';
+  font-size: 42.5px;
+}
+.green{
+  background-image: url(green.jpg);
+  opacity: 100%;
+ -webkit-background-size:cover;
+ background-repeat: no-repeat;
+ height: 100%;
+ background-position: center center;
+}
